@@ -1,0 +1,6 @@
+@BurgerDinner_HostAddress = http://localhost:5078
+
+GET {{BurgerDinner_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
